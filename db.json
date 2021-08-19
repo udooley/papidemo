@@ -1,24 +1,24 @@
 {
-"Code" : "000"
-"Message" : "OK"
-"pageNo" : 1
-"totalCount" : 2
+"Code" : "000",
+"Message" : "OK",
+"pageNo" : 1,
+"totalCount" : 2,
 
 "list" : [
 {
-"no" : 0
-"name" : "movie0"
-"resolution" : "480:270"
-"thumbnail" : "."
-"isAllowed" : 1
+"no" : 0,
+"name" : "movie0",
+"resolution" : "480:270",
+"thumbnail" : ".",
+"isAllowed" : 1,
 "url" : "http://192.168.0.1/mp4/itzy480x270.mp4"
 },
 {
-"no" : 1
-"name" : "movie1"
-"resolution" : "480:270"
-"thumbnail" : "."
-"isAllowed" : 1
+"no" : 1,
+"name" : "movie1",
+"resolution" : "480:270",
+"thumbnail" : ".",
+"isAllowed" : 1,
 "url" : "http://192.168.0.1/mp4/girl480x270.mp4"
 }
 
