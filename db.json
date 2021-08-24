@@ -23,7 +23,17 @@
 "isAllowed" : 1,
 "url" : "http://192.168.0.1/mp4/girl480x270.mp4"
 }
-
 ]
 }
+
+
+"login" :
+{
+"Code" : "200",
+"Message" : "login_OK",
+"loginToken" : "login_koken",
+"expiry" : "2021-08-24 18-00-00",
+}
+
+
 }
