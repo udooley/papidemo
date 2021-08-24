@@ -31,9 +31,17 @@
 {
 "Code" : "200",
 "Message" : "login_OK",
-"loginToken" : "login_koken",
+"loginToken" : "login_token",
 "expiry" : "2021-08-24 18-00-00"
-}
+},
 
+
+  "token" :
+  {
+    "Code" : "201",
+    "Message" : "login_OK1",
+    "loginToken" : "login_token1",
+    "expiry" : "2021-08-25 18-00-00"
+  }
 
 }
